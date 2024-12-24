@@ -1,0 +1,5 @@
+processed/
+uploads/
+venv/
+*.mp4
+ntsc-rs/
